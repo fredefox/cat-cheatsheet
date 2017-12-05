@@ -1,0 +1,29 @@
+* Chapter 1 - Categories
+** Catetegory
+* Chapter 2 - Abstract Structures
+** Monomorphism
+** Epimorphism
+** Isomorphism
+** Splitting
+** Section
+** Initial Terminal Object
+** Products
+* Chapter 3 - Duality
+** Coproducts
+** Equalizer
+** Coequalizer
+* Chapter 5 - Limits and Colimits
+** Sub-objects
+** Pullbacks
+** Limits
+** Colimits
+* Chapter 6 - Exponentials
+** Exponential
+** Cartesian Closed Categories
+* Chapter 7
+** Full subcategory
+** Natural transformation
+** Functor category
+** Monoidal category
+** Equivalence (similarity)
+* Chapter 8
